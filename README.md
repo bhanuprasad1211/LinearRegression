@@ -1,6 +1,6 @@
 # E-commerce Customer Spending Prediction (Linear Regression)
 
-This is a machine learning project that uses Linear Regression to predict the yearly amount spent by customers on an e-commerce platform. The project is based on the [Linear Regression E-commerce Dataset from Kaggle](link-to-dataset).
+This is a machine learning project that uses Linear Regression to predict the yearly amount spent by customers on an e-commerce platform. The project is based on the [Linear Regression E-commerce Dataset from Kaggle](https://www.kaggle.com/datasets/kolawale/focusing-on-mobile-app-or-website).
 
 ## Objective
 The goal of this project is to help the company decide whether to focus their efforts on improving their mobile app experience or their website, based on customer spending patterns.
